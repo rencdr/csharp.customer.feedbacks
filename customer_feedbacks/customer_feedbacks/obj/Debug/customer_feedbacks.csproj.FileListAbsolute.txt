@@ -1,0 +1,11 @@
+C:\Users\demir\source\repos\customer_feedbacks\customer_feedbacks\bin\Debug\customer_feedbacks.exe.config
+C:\Users\demir\source\repos\customer_feedbacks\customer_feedbacks\bin\Debug\customer_feedbacks.exe
+C:\Users\demir\source\repos\customer_feedbacks\customer_feedbacks\bin\Debug\customer_feedbacks.pdb
+C:\Users\demir\source\repos\customer_feedbacks\customer_feedbacks\obj\Debug\customer_feedbacks.csproj.AssemblyReference.cache
+C:\Users\demir\source\repos\customer_feedbacks\customer_feedbacks\obj\Debug\customer_feedbacks.csproj.SuggestedBindingRedirects.cache
+C:\Users\demir\source\repos\customer_feedbacks\customer_feedbacks\obj\Debug\customer_feedbacks.Form1.resources
+C:\Users\demir\source\repos\customer_feedbacks\customer_feedbacks\obj\Debug\customer_feedbacks.Properties.Resources.resources
+C:\Users\demir\source\repos\customer_feedbacks\customer_feedbacks\obj\Debug\customer_feedbacks.csproj.GenerateResource.cache
+C:\Users\demir\source\repos\customer_feedbacks\customer_feedbacks\obj\Debug\customer_feedbacks.csproj.CoreCompileInputs.cache
+C:\Users\demir\source\repos\customer_feedbacks\customer_feedbacks\obj\Debug\customer_feedbacks.exe
+C:\Users\demir\source\repos\customer_feedbacks\customer_feedbacks\obj\Debug\customer_feedbacks.pdb
